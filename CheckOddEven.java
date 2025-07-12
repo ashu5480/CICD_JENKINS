@@ -10,7 +10,7 @@ public class CheckOddEven {
 			System.out.println("GIven Number is Even");
 		}
 		else {
-			System.out.println("Given Number is Odd");
+			System.out.println("Given Number is Odd1");
 		}
 	}
 }
