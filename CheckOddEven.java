@@ -10,7 +10,7 @@ public class CheckOddEven {
 			System.out.println("GIven Number is Even");
 		}
 		else {
-			System.out.println("Given Number and tested");
+			System.out.println("Given Number and tested this");
 		}
 	}
 }
